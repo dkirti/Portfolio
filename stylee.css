@@ -132,17 +132,17 @@ button:hover{
     border: 10px solid #7EC8E3;
 }
 .photo{
-    width: 350px;   
+    
     height: 500px;
     border-radius: 40px;
         
  }
 .photo img{
     height: 80%;
-/*     width: 60%; */
+    width: 80%;
     border-radius: 40px;
     margin-top: 50px;
-    margin-left: 80px;
+    margin-left: 50px;
 }
 .about{
     padding: 50px;
